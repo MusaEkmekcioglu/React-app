@@ -1,4 +1,4 @@
-This project [REACT-FAQ](https://musaekmekcioglu-faq.netlify.app/)
+Click to see This project [REACT-FAQ](https://musaekmekcioglu-faq.netlify.app/)
 
 # Getting Started with Create React App
 
